@@ -1,0 +1,11 @@
+/Users/greg/codingdojo/cSharp/human/bin/Debug/netcoreapp2.1/human.deps.json
+/Users/greg/codingdojo/cSharp/human/bin/Debug/netcoreapp2.1/human.runtimeconfig.json
+/Users/greg/codingdojo/cSharp/human/bin/Debug/netcoreapp2.1/human.runtimeconfig.dev.json
+/Users/greg/codingdojo/cSharp/human/bin/Debug/netcoreapp2.1/human.dll
+/Users/greg/codingdojo/cSharp/human/bin/Debug/netcoreapp2.1/human.pdb
+/Users/greg/codingdojo/cSharp/human/obj/Debug/netcoreapp2.1/human.csprojAssemblyReference.cache
+/Users/greg/codingdojo/cSharp/human/obj/Debug/netcoreapp2.1/human.csproj.CoreCompileInputs.cache
+/Users/greg/codingdojo/cSharp/human/obj/Debug/netcoreapp2.1/human.AssemblyInfoInputs.cache
+/Users/greg/codingdojo/cSharp/human/obj/Debug/netcoreapp2.1/human.AssemblyInfo.cs
+/Users/greg/codingdojo/cSharp/human/obj/Debug/netcoreapp2.1/human.dll
+/Users/greg/codingdojo/cSharp/human/obj/Debug/netcoreapp2.1/human.pdb
